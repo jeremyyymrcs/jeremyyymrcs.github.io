@@ -1,0 +1,49 @@
+* HOME
+home__social
+https://www.linkedin.com/
+https://dribbble.com/
+https://github.com/
+
+home__description
+Test Automation Lead driving excellence in automation engineering, test strategy, and quality advocacy.
+
+
+* ABOUT
+about__description
+Seasoned Test Automation Lead with extensive experience designing and delivering scalable test automation frameworks, mentoring QA teams, and shaping dev‑test quality culture.
+
+about__info-name
+Years <br> experience
+Completed <br> project
+Companies <br> worked
+
+
+* SERVICES
+services__modal-service
+Development of robust Test Automation Frameworks.
+Web & API test automation architecture.
+UX element interaction automation.
+Test strategy alignment with brand expectations.
+
+* PORTFOLIO
+portfolio__description
+Adaptive, automation‑driven test platforms with intuitive UI components and dynamic interactions.
+
+
+* PROJECT
+project__description
+Contact me now to architect test automation pipelines and get a 30% efficiency boost on your release cycles.
+
+
+* TESTIMONIAL
+testimonial__description
+Highly impressed — delivered top‑quality automation with 24/7 support and unwavering attention to detail.
+
+
+* FOOTER
+footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+

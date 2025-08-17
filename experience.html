@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!--==================== UNICONS ====================-->
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+
+        <!--==================== SWIPER CSS ====================-->
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+
+        <!--==================== CSS ====================-->
+        <link rel="stylesheet" href="assets/css/styles.css">
+
+        <title>Responsive Portfolio Website</title>
+    </head>
+    <body>
+        <!--==================== HEADER ====================-->
+        <header class="header" id="header">
+          <nav class="nav container">
+            <a href="#" class="nav__logo">Jeremy</a>
+
+            <div class="nav__menu" id="nav-menu">
+              <ul class="nav__list grid">
+                <li class="nav__item">
+                  <a href="index.html" class="nav__link">
+                    <i class="uil uil-estate nav__icon"></i> Home
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="about.html" class="nav__link">
+                    <i class="uil uil-user nav__icon"></i> About
+                  </a>
+                </li>
+                 <li class="nav__item">
+                  <a href="experience.html" class="nav__link active-link">
+                    <i class="uil uil-estate nav__icon"></i> Experience
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="skills.html" class="nav__link">
+                    <i class="uil uil-file-alt nav__icon"></i> Skills
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="services.html" class="nav__link">
+                    <i class="uil uil-briefcase-alt nav__icon"></i> Services
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="portfolio.html" class="nav__link">
+                    <i class="uil uil-scenery nav__icon"></i> Portfolio
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="contact.html" class="nav__link">
+                    <i class="uil uil-message nav__icon"></i> Contact Me
+                  </a>
+                </li>
+              </ul>
+              <i class="uil uil-times nav__close" id="nav-close"></i>
+            </div>
+
+            <div class="nav__btns">
+              <!-- Theme change button -->
+              <i class="uil uil-moon change-theme" id="theme-button"></i>
+
+              <div class="nav__toggle" id="nav-toggle">
+                <i class="uil uil-apps"></i>
+              </div>
+            </div>
+          </nav>
+        </header>
+
+        <!--==================== MAIN ====================-->
+        <main class="main">
+          
+          <!--==================== QUALIFICATION ====================-->
+          <section class="qualification section">
+            <h2 class="section__title">Experience</h2>
+            <span class="section__subtitle">My Personal Journey</span>
+
+            <div class="qualification__container container">
+
+              <div class="qualification__sections">
+                <!-- Combined Qualification Content -->
+                <div class="qualification__content qualification__active" data-content>
+
+                  <!-- Lead Test Automation Engineer -->
+                  <div class="qualification__data">
+                    <div></div>
+                    <div>
+                      <span class="qualification__rounder"></span>
+                      <span class="qualification__line"></span>
+                    </div>
+                    <div>
+                      <h3 class="qualification__title">Lead Test Automation Engineer</h3>
+                      <span class="qualification__subtitle">Elgada Bpo Solutions</span>
+                      <div class="qualification__calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        2025 - Present
+                      </div>
+                      <ul class="qualification__tasks">
+                        <li>Designed and implemented scalable automation frameworks for web and API testing.</li>
+                        <li>Led a team of QA engineers, providing mentorship and best practices in automation.</li>
+                        <li>Integrated automated tests into CI/CD pipelines for faster release cycles.</li>
+                        <li>Collaborated with developers and product owners to define testing strategies.</li>
+                      </ul>
+                    </div>
+                  </div>
+
+                <!-- Software QA Engineer -->
+                <div class="qualification__data">
+                  <div>
+                    <h3 class="qualification__title">Software QA Engineer</h3>
+                    <span class="qualification__subtitle">Go-To Oursourcing Inc.</span>
+                    <div class="qualification__calendar">
+                      <i class="uil uil-calendar-alt"></i>
+                      2022 - 2025
+                    </div>
+                    <ul class="qualification__tasks">
+                      <li>Developed and executed manual and automated test cases for web and mobile applications.</li>
+                      <li>Identified, reported, and tracked software defects using Jira.</li>
+                      <li>Worked closely with developers to resolve bugs and improve application quality.</li>
+                      <li>Contributed to improving QA processes and documentation.</li>
+                    </ul>
+                  </div>
+                  <div>
+                    <span class="qualification__rounder"></span>
+                  </div>
+                </div>
+
+                  <!-- BS Information Technology -->
+                  <div class="qualification__data">
+                    <div>
+                      <h3 class="qualification__title">BS Information Technology</h3>
+                      <span class="qualification__subtitle">Adamson University</span>
+                      <div class="qualification__calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        2018 - 2022
+                      </div>
+                    </div>
+                    <div>
+                      <span class="qualification__rounder"></span>
+                      <span class="qualification__line"></span>
+                    </div>
+                  </div>
+
+                   <!-- Front End Developer Intern -->
+                  <div class="qualification__data">
+                    <div>
+                      <h3 class="qualification__title">Front End Developer</h3>
+                      <span class="qualification__subtitle">Internship</span>
+                      <div class="qualification__calendar">
+                        <i class="uil uil-calendar-alt"></i>
+                        2022
+                      </div>
+                    </div>
+                    <div>
+                      <span class="qualification__rounder"></span>
+                    </div>
+                  </div>
+          </section>
+
+        <!--==================== SWIPER JS ====================-->
+        <script src="assets/js/swiper-bundle.min.js"></script>
+
+        <!--==================== MAIN JS ====================-->
+        <script src="assets/js/main.js"></script>
+
+
+    </body>
+</html>

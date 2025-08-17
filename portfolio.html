@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!--==================== UNICONS ====================-->
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+
+        <!--==================== SWIPER CSS ====================-->
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+
+        <!--==================== CSS ====================-->
+        <link rel="stylesheet" href="assets/css/styles.css">
+
+        <title>Responsive Portfolio Website</title>
+    </head>
+    <body>
+        <!--==================== HEADER ====================-->
+        <header class="header" id="header">
+          <nav class="nav container">
+            <a href="#" class="nav__logo">Jeremy</a>
+
+            <div class="nav__menu" id="nav-menu">
+              <ul class="nav__list grid">
+                <li class="nav__item">
+                  <a href="index.html" class="nav__link">
+                    <i class="uil uil-estate nav__icon"></i> Home
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="about.html" class="nav__link">
+                    <i class="uil uil-user nav__icon"></i> About
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="experience.html" class="nav__link">
+                    <i class="uil uil-file-alt nav__icon"></i> Experience
+                  </a>
+                <li class="nav__item">
+                  <a href="skills.html" class="nav__link">
+                    <i class="uil uil-file-alt nav__icon"></i> Skills
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="services.html" class="nav__link">
+                    <i class="uil uil-briefcase-alt nav__icon"></i> Services
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="portfolio.html" class="nav__link active-link">
+                    <i class="uil uil-scenery nav__icon"></i> Portfolio
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a href="contact.html" class="nav__link">
+                    <i class="uil uil-message nav__icon"></i> Contact Me
+                  </a>
+                </li>
+              </ul>
+              <i class="uil uil-times nav__close" id="nav-close"></i>
+            </div>
+
+            <div class="nav__btns">
+              <!-- Theme change button -->
+              <i class="uil uil-moon change-theme" id="theme-button"></i>
+
+              <div class="nav__toggle" id="nav-toggle">
+                <i class="uil uil-apps"></i>
+              </div>
+            </div>
+          </nav>
+        </header>
+
+        <!--==================== MAIN ====================-->
+        <main class="main">
+
+            <!--==================== PORTFOLIO ====================-->
+            <section class="portfolio section" id="portfolio">
+              <h2 class="section__title">Portfolio</h2>
+              <span class="section__subtitle">Recent Works</span>
+
+              <div class="portfolio__container container swiper-container">
+                <div class="swiper-wrapper">
+                  <!--==================== PORTFOLIO 1 ====================-->
+                  <div class="portfolio__content grid swiper-slide">
+                    <img src="assets/img/portfolio1.jpg" alt="" class="portfolio__img">
+
+                    <div class="portfolio__data">
+                      <h3 class="portfolio__title">Test Automation Leadership</h3>
+                      <p class="portfolio__description">
+                        Led the design and implementation of scalable, cross-platform test 
+                        automation frameworks. Oversaw a team of QA engineers, 
+                        introduced CI/CD pipelines, and ensured high test coverage for
+                        web and mobile applications.
+                      </p>
+                      <a href="#" class="button button--flex button--small portfolio__button">
+                        Demo
+                        <i class="uil uil-arrow-right button__icon"></i>
+                      </a>
+                    </div>
+                  </div>
+
+                  <!--==================== PORTFOLIO 2 ====================-->
+                  <div class="portfolio__content grid swiper-slide">
+                    <img src="assets/img/portfolio2.jpg" alt="" class="portfolio__img">
+
+                    <div class="portfolio__data">
+                      <h3 class="portfolio__title">Test Automation Strategy</h3>
+                      <p class="portfolio__description">
+                        Directed end-to-end test automation initiatives across agile teams. 
+                        Built maintainable automation frameworks, integrated automated testing into 
+                        CI/CD pipelines, and improved product quality through strategic QA leadership.
+                      </p>
+                      <a href="#" class="button button--flex button--small portfolio__button">
+                        Demo
+                        <i class="uil uil-arrow-right button__icon"></i>
+                      </a>
+                    </div>
+                  </div>
+
+                  <!--==================== PORTFOLIO 3 ====================-->
+                  <div class="portfolio__content grid swiper-slide">
+                    <img src="assets/img/portfolio3.jpg" alt="" class="portfolio__img">
+
+                    <div class="portfolio__data">
+                      <h3 class="portfolio__title">E-commerce Test Automation</h3>
+                      <p class="portfolio__description">
+                        Led automation efforts for a responsive e-commerce platform. Designed and maintained 
+                        end-to-end test suites for shopping cart, payment gateway, and user authentication. 
+                        Ensured test coverage across devices and browsers.
+                      </p>
+                      <a href="#" class="button button--flex button--small portfolio__button">
+                        Demo
+                        <i class="uil uil-arrow-right button__icon"></i>
+                      </a>
+                    </div>
+                  </div>
+
+                </div>
+
+                <!-- Swiper JS Arrows -->
+                <div class="swiper-button-next">
+                  <i class="uil uil-angle-right-b swiper-portfolio-icon"></i>
+                </div>
+                <div class="swiper-button-prev">
+                  <i class="uil uil-angle-left-b swiper-portfolio-icon"></i>
+                </div>
+
+                <!-- Swiper JS Pagination -->
+                <div class="swiper-pagination"></div>
+
+              </div>
+            </section>
+
+            
+        <!--==================== SWIPER JS ====================-->
+        <script src="assets/js/swiper-bundle.min.js"></script>
+
+        <!--==================== MAIN JS ====================-->
+        <script src="assets/js/main.js"></script>
+
+
+    </body>
+</html>
