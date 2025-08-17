@@ -91,6 +91,10 @@ body.dark-theme {
   display: flex;
   align-items: center;
 }
+.nav__btns i {
+  font-size: 38px; /* icon size */
+  cursor: pointer;
+}
 
 .change-theme{
   font-size: 1.25rem;
@@ -202,7 +206,12 @@ img{
 }
 
 .nav_toggle{
-  font-size: 1.1rem;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.nav__toggle i {
+  font-size: 38px; /* icon size */
   cursor: pointer;
 }
 
