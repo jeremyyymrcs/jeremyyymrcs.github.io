@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.9c19a9fb.js",
+    "main.js": "/static/js/main.11bc271d.js",
     "static/js/787.df5e1d3a.chunk.js": "/static/js/787.df5e1d3a.chunk.js",
-    "static/media/favicon.png": "/static/media/favicon.898815204b533b2a2186.png",
+    "static/media/2x2-JeremyMarcos.jpg": "/static/media/2x2-JeremyMarcos.e2630e09d34a3008111c.jpg",
     "index.html": "/index.html",
-    "main.9c19a9fb.js.map": "/static/js/main.9c19a9fb.js.map",
+    "main.11bc271d.js.map": "/static/js/main.11bc271d.js.map",
     "787.df5e1d3a.chunk.js.map": "/static/js/787.df5e1d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c19a9fb.js"
+    "static/js/main.11bc271d.js"
   ]
 }
