@@ -1,30 +1,68 @@
-# 👨‍💻 Experience
+# 💼 Experience
+
+## Senior Software Development Engineer in Test
+
+**Ascendion**
+**Client:** Sun Life Global Solutions
+*Jan 2026 – Present · BGC, Taguig*
+
+* **Primary Point of Contact for Test Automation**, bridging QA engineers and stakeholders on automation-related initiatives.
+* **Led Appium + Java mobile automation**, developing scalable and reliable automation solutions for mobile applications.
+* **Reduced repetitive manual testing effort by approximately 75%** through mobile test automation and automated regression coverage.
+  * *Measured by comparing estimated manual execution effort before automation against the remaining manual effort after automation.*
+* **Integrated AI into the test automation development workflow**, using AI-assisted engineering to accelerate test creation, debugging, refactoring, and framework development.
+* **Leveraged a multi-agent AI workflow with 25 AI agents** to assist with test automation development, analysis, and engineering tasks.
+* **Mentored and onboarded SDETs**, establishing automation best practices and helping new team members ramp up faster.
+* **Conducted code reviews** to maintain clean, maintainable, and high-quality automation code.
+* **Guided framework setup and tool configuration** for new team members.
+* **Integrated automation into CI/CD pipelines**, improving automated test execution and workflow efficiency.
+* **Facilitated peer programming sessions** to solve complex automation challenges and improve technical knowledge sharing.
+* **Improved test coverage and automation reliability** through framework improvements, debugging, and continuous refinement.
 
 
-**Research Engineer** @ [Fraunhofer Institute for Applied Information Technology FIT | Data Science and Artificial Intelligence](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html) _(Jan 2024 - Present)_
+---
 
-Specializing in Retrieval-Augmented Generation (RAG) and Knowledge Graphs.
-- Developed AI-driven chatbots utilizing RAG to deliver accurate and contextually relevant responses.
-- Engineered hybrid RAG systems integrating VectorRAG and GraphRAG methodologies to enhance data-driven decision-making processes.
-- Streamlined administrative workflows by automating tasks with scripting, resulting in a 90% efficiency increase.
-- _**Technologies used:**_ Python, LangChain, LangGraph, LlamaIndex, Ollama, Neo4j, MLflow
+## QA Automation Tester
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Elgada BPO Solutions**
+*Mar 2025 – Jan 2026*
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+* Designed and built a **Playwright automation framework with Python and Pytest from scratch** for web application testing.
+* Implemented a maintainable automation structure using **Page Object Model (POM), reusable components, fixtures, configuration management, and test utilities**.
+* Integrated automated tests with **GitHub Actions** for continuous and scheduled test execution.
+* Containerized the automation framework using **Docker** and published the image through **GitHub Container Registry**.
+* Integrated **Allure reporting** and automated test result notifications through **Microsoft Teams**.
+* Developed supporting automation utilities for **test execution, reporting, debugging, and failure investigation**.
+* Reduced repetitive manual testing effort by approximately **80%** through automation.
+* Provided **technical mentoring to 5 QA engineers, including senior-level team members**, on automation development and framework usage.
+* Conducted **code reviews, peer programming, and knowledge-sharing sessions** to improve automation practices across the team.
+* Established collaborative **Git branching and development workflows** for automation development.
+* Led automation-related technical discussions and helped the team adopt more consistent framework practices.
 
-- Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-- Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-- Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+---
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+## Software Quality Assurance Engineer
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+**Go-To Outsourcing**
+*Sep 2022 – Mar 2025*
 
-- Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-- Supervised assigned auditing staffs to evaluate performance and maintain standards.
+* Developed and maintained **web automation using SeleniumBase** for end-to-end and regression testing.
+* Developed **mobile automation using Appium** for mobile application test scenarios.
+* Integrated automated testing into **Jenkins-based CI/CD workflows** for repeatable test execution.
+* Executed automation on **AWS EC2** environments as part of the test automation workflow.
+* Implemented automated test reporting and team notifications through **Slack**.
+* Designed reusable automation components to improve test maintainability and reduce duplicated test code.
+* Automated repetitive regression scenarios and reduced manual testing effort by approximately **70%**.
+* Investigated test failures and application issues through **logs, test results, and debugging**.
+* Collaborated with developers and QA engineers throughout the testing lifecycle.
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+---
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+## Front End Developer
+
+**Questronix**
+*Mar 2022 – May 2022*
+
+* Developed and maintained front-end components for web applications.
+* Worked with web technologies and application UI implementation.
+* Collaborated with team members to implement and troubleshoot application features.

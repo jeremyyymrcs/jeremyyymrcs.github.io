@@ -1,22 +1,19 @@
-# 👨‍🎓 Education
-`2022-present` [RWTH Aachen University](https://www.rwth-aachen.de/)
-- **M.Sc.** in Software Systems Engineering
+# Education
 
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+## Bachelor of Science in Information Technology
 
-**Post-Bachelor Coursework**  
-After earning my bachelor's degree, I enrolled in Taiwan's "Undergraduate Credit Program," attending regular courses alongside full-time students and earning official credit certificates. These courses enhanced my foundation in software engineering and information technology:  
-- `2021-2022` **[National Taipei University of Technology](https://www-en.ntut.edu.tw/)**: Computer Science, Electrical Engineering, and Electronic Engineering  
-  - Key Courses: Computer Organization, Discrete Mathematics, Computer Programming(I), Object-Oriented Programming, Probability, Digital Logic Design
-  - GPA: 4.0/4.0  
-- `2021-2022` **[National Taiwan Normal University](https://en.ntnu.edu.tw/)**: Electrical Engineering  
-  - Key Course: Operating Systems  
-  - GPA: 4.3/4.3  
-- `2020–2022` **[Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)**: Software Engineering and Digital Innovation Applications, and Information Management 
-  - Key Courses: Algorithms, Linear Algebra, Database Administration  
-  - GPA: 4.0/4.0  
-- `2020-2021` **[National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)**: Information Management  
-  - Key Course: Data Structures  
-  - GPA: 4.0/4.0
+**Adamson University**
+900 San Marcelino St., Ermita, 1000 Manila, Philippines
+
+* Focused on information technology, programming, and software development
+* Studied database management, systems analysis and design, and software engineering
+* Completed academic projects involving software development and information systems
+* Participated in university activities and technical events related to Information Technology
+
+### Relevant Areas
+
+* Software Testing & Quality Assurance
+* Software Development
+* Programming
+* Database Management
+* Systems Analysis & Design

@@ -1,111 +1,42 @@
 # 📖 Overview
 
-## Summary
+## About Me
 
-Senior Software Developer specializing in Artificial Intelligence and advanced data architectures. Expertise in Retrieval-Augmented Generation (RAG), GraphRAG, and Knowledge Graphs to create intelligent and scalable solutions. Skilled in fine-tuning Large Language Models (LLMs) for optimized, application-specific performance. Active contributor to the open-source community with 700+ GitHub stars, demonstrating a commitment to collaborative innovation. Adept at bridging the gap between end users and technical teams to design and implement cutting-edge web and software applications. Proficient in multiple programming languages, including Python, C# .NET, and JavaScript/TypeScript, with a proven track record of driving innovation and efficiency through technology.
+I'm a **Software Development Engineer in Test (SDET)** focused on building reliable test automation for web and mobile applications.
 
-## Experience
+I enjoy turning repetitive testing into **automation that is practical, maintainable, and easy for teams to use**. I've built automation frameworks from scratch, connected automated tests to CI/CD pipelines, and worked on solutions that improve the way teams run and understand their tests.
 
-**Research Engineer** @ [Fraunhofer Institute for Applied Information Technology FIT | Data Science and Artificial Intelligence](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html) _(Jan 2024 - Present)_
+My experience covers both **web and mobile automation**, from writing end-to-end tests to building the framework and supporting tools around them. I care about making automation reliable enough to run continuously, simple enough for other engineers to work with, and useful enough to provide real value to the team.
 
-Specializing in Retrieval-Augmented Generation (RAG) and Knowledge Graphs.
-- Developed AI-driven chatbots utilizing RAG to deliver accurate and contextually relevant responses.
-- Engineered hybrid RAG systems integrating VectorRAG and GraphRAG methodologies to enhance data-driven decision-making processes.
-- Streamlined administrative workflows by automating tasks with scripting, resulting in a 90% efficiency increase.
-- _**Technologies used:**_ Python, LangChain, LangGraph, LlamaIndex, Ollama, Neo4j, MLflow
+I also enjoy working on the engineering side of QA—**framework design, test architecture, CI/CD integration, reporting, debugging, and improving automation workflows**. For me, automation is not just about creating more test cases. It's about building a system that can support the team as the application grows.
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+One of my recent projects combines Playwright, GitHub Actions, and Ollama to automatically analyze failed tests using a local LLM and generate a failure analysis report as part of the CI/CD workflow.
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+I've also had the opportunity to **mentor QA engineers and share what I've learned through technical training and speaking engagements**. I enjoy breaking down complex automation concepts and turning them into something practical that other engineers can actually use.
 
-- Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-- Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-- Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+I don't just want tests to run.
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**I want automation to make testing better.**
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+## What I Build
 
-- Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-- Supervised assigned auditing staffs to evaluate performance and maintain standards.
+**🧪 Automation Frameworks**
+Frameworks designed for **maintainability, reusability, and long-term automation growth** not just a collection of test scripts.
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**🚀 Fully Automated CI/CD Pipelines**
+End-to-end pipelines that **automatically trigger, execute, report, analyze, and notify** eliminating the need to manually run automation and check results.
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+**📱 Web & Mobile Automation**
+End-to-end automation across **web and mobile applications**, covering real application workflows and regression scenarios.
 
-## Education
+**🤖 AI-Assisted Test Engineering**
+Practical use of **AI tools such as GitHub Copilot, ChatGPT and Claude** to improve how I design, develop, debug, and maintain automation.
 
-`2022-present` [RWTH Aachen University](https://www.rwth-aachen.de/)
-- **M.Sc.** in Software Systems Engineering
+**🧠 AI-Powered Failure Analysis**
+Built a workflow using **Ollama and a local LLM** to automatically analyze failed Playwright tests, process test output and logs, and generate a structured failure analysis report as part of the CI/CD pipeline.
 
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+**📢 Automated Reporting & Notifications**
+Test results and AI-generated failure analysis are automatically delivered through **Slack or Microsoft Teams**, giving the team immediate feedback without manually checking the pipeline.
 
-**Post-Bachelor Coursework**  
-After earning my bachelor's degree, I enrolled in Taiwan's "Undergraduate Credit Program," attending regular courses alongside full-time students and earning official credit certificates. These courses enhanced my foundation in software engineering and information technology:  
-- `2021-2022` **[National Taipei University of Technology](https://www-en.ntut.edu.tw/)**: Computer Science, Electrical Engineering, and Electronic Engineering  
-  - Key Courses: Computer Organization, Discrete Mathematics, Computer Programming(I), Object-Oriented Programming, Probability, Digital Logic Design
-  - GPA: 4.0/4.0  
-- `2021-2022` **[National Taiwan Normal University](https://en.ntnu.edu.tw/)**: Electrical Engineering  
-  - Key Course: Operating Systems  
-  - GPA: 4.3/4.3  
-- `2020–2022` **[Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)**: Software Engineering and Digital Innovation Applications, and Information Management 
-  - Key Courses: Algorithms, Linear Algebra, Database Administration  
-  - GPA: 4.0/4.0  
-- `2020-2021` **[National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)**: Information Management  
-  - Key Course: Data Structures  
-  - GPA: 4.0/4.0
-
-## Skills
-
-### General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
-
-### LLM and AI Skills
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- GraphRAG
-- Knowledge Graphs
-- Chatbot Development
-- Agentic RAG
-- Fine-tuning LLMs
-
-### Programming languages
-- C# .NET
-- Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
-
-## Certifications
-- Certified Public Accountant (Taiwan)
-
-## Featured Projects
-### [graphrag-visualizer](https://github.com/noworneverev/graphrag-visualizer) [![GitHub stars](https://img.shields.io/github/stars/noworneverev/graphrag-visualizer?style=social)](https://github.com/noworneverev/graphrag-visualizer/stargazers)
-- **Purpose**: A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG.
-- **Technologies**: TypeScript, React.js, GraphRAG
-- **Demo**: [Live Demo](https://noworneverev.github.io/graphrag-visualizer/)
-
-### [react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio) [![GitHub stars](https://img.shields.io/github/stars/noworneverev/react-vscode-portfolio?style=social)](https://github.com/noworneverev/react-vscode-portfolio/stargazers)
-- **Purpose**: A Visual Studio Code-inspired portfolio project with responsive design.
-- **Technologies**: React, TypeScript
-- **Demo**: [Live Demo](https://noworneverev.github.io/react-vscode-portfolio/)
-
-## Rewards
-- **Deutschlandstipendium Scholarship** @ [RWTH Aachen University](https://www.mystipendium.de/stipendien/rwth-aachen-deutschlandstipendium) _(2023–2024)_
-  Awarded for outstanding academic performance and commitment, sponsored jointly by the German Federal Government and private partners.
-  
-- **Won First Place** @ [EY Asia Innovation Campaign](https://www.ey.com/) _(May 2021)_
-  Awarded for designing and building the Trial Balance System, which streamlined data transmission across users and ensured consistent, reliable financial reporting.
-
-## Languages
-**English**: C1
-**Chinese**: Native
+**⚙️ QA Engineering Solutions**
+Connecting **automation, AI, CI/CD, reporting, failure analysis, and team notifications** into a complete testing workflow that can run with minimal manual intervention.
