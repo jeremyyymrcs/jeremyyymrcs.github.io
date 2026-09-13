@@ -1,5 +1,5 @@
 ::: info
-Following content is adapted from https://markdown-it.github.io/
+Following content is adapted from https://jeremyyymrcs.github.io/
 :::
 
 # h1 Heading
@@ -104,11 +104,11 @@ Right aligned columns
 
 ## Links
 
-[link text](https://noworneverev.github.io/)
+[link text](https://jeremyyymrcs.github.io/)
 
 [link with title](https://github.com/noworneverev/react-vscode-portfolio "title text!")
 
-Autoconverted link https://noworneverev.github.io/ 
+Autoconverted link https://jeremyyymrcs.github.io/
 
 ## Alerts
 ::: warning
