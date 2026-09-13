@@ -1,42 +1,51 @@
-# 📖 Overview
+# Overview
+
+---
 
 ## About Me
 
-I'm a **Software Development Engineer in Test (SDET)** focused on building reliable test automation for web and mobile applications.
+I'm a Senior Software Development Engineer in Test focused on test automation for web and mobile applications.
 
-I enjoy turning repetitive testing into **automation that is practical, maintainable, and easy for teams to use**. I've built automation frameworks from scratch, connected automated tests to CI/CD pipelines, and worked on solutions that improve the way teams run and understand their tests.
+My work goes beyond writing and maintaining test scripts. I build automation frameworks, CI/CD pipelines, reporting workflows, and tools that help teams run and maintain their tests with less manual effort.
 
-My experience covers both **web and mobile automation**, from writing end-to-end tests to building the framework and supporting tools around them. I care about making automation reliable enough to run continuously, simple enough for other engineers to work with, and useful enough to provide real value to the team.
+I've built automation frameworks from scratch and worked with technologies such as **Playwright, Selenium, Appium, Pytest, GitHub Actions, Jenkins, Docker, and Allure. I also work with AI-assisted tools to speed up development, debugging, and test analysis.
 
-I also enjoy working on the engineering side of QA—**framework design, test architecture, CI/CD integration, reporting, debugging, and improving automation workflows**. For me, automation is not just about creating more test cases. It's about building a system that can support the team as the application grows.
+One of my recent projects combines Playwright, GitHub Actions, Docker, Ollama, and Slack** to automatically analyze failed tests and generate a failure analysis report directly from the CI/CD workflow.
 
-One of my recent projects combines Playwright, GitHub Actions, and Ollama to automatically analyze failed tests using a local LLM and generate a failure analysis report as part of the CI/CD workflow.
+I also enjoy the people side of QA engineering. I've mentored QA engineers, conducted technical training, and shared automation practices with other testers and developers.
 
-I've also had the opportunity to **mentor QA engineers and share what I've learned through technical training and speaking engagements**. I enjoy breaking down complex automation concepts and turning them into something practical that other engineers can actually use.
+For me, good automation isn't about having the most test cases.
 
-I don't just want tests to run.
-
-**I want automation to make testing better.**
+It's about building something the team can actually run, maintain, and rely on.
 
 ## What I Build
 
-**🧪 Automation Frameworks**
-Frameworks designed for **maintainability, reusability, and long-term automation growth** not just a collection of test scripts.
+---
 
-**🚀 Fully Automated CI/CD Pipelines**
-End-to-end pipelines that **automatically trigger, execute, report, analyze, and notify** eliminating the need to manually run automation and check results.
+### 🧪 Automation Frameworks
 
-**📱 Web & Mobile Automation**
-End-to-end automation across **web and mobile applications**, covering real application workflows and regression scenarios.
+Custom web and mobile automation frameworks built with maintainability, reusability, and scalability in mind.
 
-**🤖 AI-Assisted Test Engineering**
-Practical use of **AI tools such as GitHub Copilot, ChatGPT and Claude** to improve how I design, develop, debug, and maintain automation.
+### 🚀 CI/CD Automation
 
-**🧠 AI-Powered Failure Analysis**
-Built a workflow using **Ollama and a local LLM** to automatically analyze failed Playwright tests, process test output and logs, and generate a structured failure analysis report as part of the CI/CD pipeline.
+Automated pipelines that run tests, collect results, generate reports, and notify the team without requiring manual execution.
 
-**📢 Automated Reporting & Notifications**
-Test results and AI-generated failure analysis are automatically delivered through **Slack or Microsoft Teams**, giving the team immediate feedback without manually checking the pipeline.
+### 📱 Web & Mobile Testing
 
-**⚙️ QA Engineering Solutions**
-Connecting **automation, AI, CI/CD, reporting, failure analysis, and team notifications** into a complete testing workflow that can run with minimal manual intervention.
+End-to-end automation for web and mobile applications, covering critical workflows and regression scenarios.
+
+### 🤖 AI-Assisted Test Engineering
+
+Using tools such as GitHub Copilot, ChatGPT, and Claude to assist with test development, debugging, framework design, and maintenance.
+
+### 🧠 AI-Powered Failure Analysis
+
+A CI/CD workflow using Ollama and a local LLM to analyze failed Playwright tests, process logs and test output, and generate a structured failure analysis report.
+
+### 📢 Automated Reporting & Notifications
+
+Integrating Allure, Slack, and Microsoft Teams into automation workflows so test results and failures are easier to track and act on.
+
+### ⚙️ QA Engineering Solutions
+
+Connecting automation, CI/CD, reporting, AI, and notifications into complete testing workflows that reduce repetitive manual work.

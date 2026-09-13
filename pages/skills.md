@@ -1,6 +1,8 @@
 # 🛠️ Skills
 
-## 🧪 Test Automation and tools
+---
+
+## 🧪 Test Automation
 
 * **Playwright**
 * **Appium**
@@ -8,13 +10,12 @@
 * **Pytest**
 * **Cucumber**
 * **Robot Framework**
+* Web Automation
+* Mobile Automation
 * End-to-End Testing
 * Regression Testing
 * Functional Testing
 * API Testing
-* Mobile Automation
-* Web Automation
-* Cross-platform Testing
 
 ## 💻 Programming
 
@@ -24,7 +25,7 @@
 * SQL
 * Bash / Shell Scripting
 
-## 🏗️ Automation Framework Engineering
+## 🏗️ Framework Engineering
 
 * Page Object Model (POM)
 * Test Architecture
@@ -34,8 +35,8 @@
 * Test Data Management
 * Configuration Management
 * Test Utilities
-* Automation Maintainability
 * Debugging & Failure Investigation
+* Automation Maintainability
 
 ## 🚀 CI/CD & DevOps
 
@@ -49,58 +50,50 @@
 * Automated Test Reporting
 * CI/CD Notifications
 
-## 🤖 AI-Assisted Engineering
+## 🤖 AI & Test Intelligence
 
+* **Ollama**
 * **GitHub Copilot**
 * **ChatGPT**
 * **Claude**
-* **Ollama**
 * Local LLM Integration
 * AI-assisted Test Development
 * AI-assisted Debugging
 * Automated Test Failure Analysis
-* AI-assisted Reporting
+* Log & Failure Analysis
 
-## 📊 Reporting & Test Intelligence
+## 📊 Reporting & Notifications
 
 * **Allure Reports**
 * HTML Test Reports
-* Automated Failure Analysis
 * Test Execution Reporting
-* Log Analysis
 * Failure Diagnostics
-* Slack Notifications
-* Microsoft Teams Notifications
+* **Slack**
+* **Microsoft Teams**
 
 ## 📱 Mobile Automation
 
 * **Appium + Java**
 * Android Automation
 * Mobile UI Automation
-* Mobile Test Execution
 * Mobile Element Inspection
 * Mobile Regression Testing
 
 ## 🌐 Web & API Testing
 
-* REST API Testing
-* Postman
+* **REST API Testing**
+* **Postman**
 * API Validation
-* End-to-End Testing
 * Browser Automation
 * Web UI Testing
 
 ## 🔧 Development & Collaboration
 
-* Team Leadership
+* **Git**
+* **GitHub / GitLab / Bitbucket**
+* Branching & Git Workflow
+* Pull Requests & Code Reviews
 * QA Team Mentoring
-* Branching Strategy & Git Workflow
-* Git
-* GitHub, GitLab, BitBucket
-* Pull Requests
-* Code Reviews
-* Peer Programming
-* Agile / Scrum
 * Technical Documentation
 * Knowledge Sharing
-* Cross-team Collaboration
+* Agile / Scrum

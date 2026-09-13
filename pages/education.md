@@ -8,7 +8,6 @@
 * Focused on information technology, programming, and software development
 * Studied database management, systems analysis and design, and software engineering
 * Completed academic projects involving software development and information systems
-* Participated in university activities and technical events related to Information Technology
 
 ### Relevant Areas
 
