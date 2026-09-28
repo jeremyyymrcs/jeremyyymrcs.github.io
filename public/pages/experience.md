@@ -7,7 +7,7 @@
 **Ascendion**
 
 **Client:** Sun Life Global Solutions
-*Jan 2026 – Present · BGC, Taguig*
+*Jan 2026 – Present · BGC, Taguig*q
 
 **The Story**
 
