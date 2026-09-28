@@ -8,9 +8,9 @@ I'm a Senior Software Development Engineer in Test focused on test automation fo
 
 My work goes beyond writing and maintaining test scripts. I build automation frameworks, CI/CD pipelines, reporting workflows, and tools that help teams run and maintain their tests with less manual effort.
 
-I've built automation frameworks from scratch and worked with technologies such as **Playwright, Selenium, Appium, Pytest, GitHub Actions, Jenkins, Docker, and Allure. I also work with AI-assisted tools to speed up development, debugging, and test analysis.
+I've built automation frameworks from scratch and worked with technologies such as Playwright, Selenium, Appium, Pytest, GitHub Actions, Jenkins, Docker, and Allure. I also work with AI-assisted tools to speed up development, debugging, and test analysis.
 
-One of my recent projects combines Playwright, GitHub Actions, Docker, Ollama, and Slack** to automatically analyze failed tests and generate a failure analysis report directly from the CI/CD workflow.
+One of my recent projects combines Playwright, GitHub Actions, Docker, Ollama, and Slack to automatically analyze failed tests and generate a failure analysis report directly from the CI/CD workflow.
 
 I also enjoy the people side of QA engineering. I've mentored QA engineers, conducted technical training, and shared automation practices with other testers and developers.
 

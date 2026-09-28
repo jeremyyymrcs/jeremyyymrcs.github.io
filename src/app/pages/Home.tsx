@@ -114,7 +114,7 @@ export default function Home({ setSelectedIndex }: Props) {
                   mb: 3
                 }}
               >
-                *Architecting scalable automation. Engineering quality at scale. Empowering teams, accelerating delivery, and enabling reliable software with confidence. Building practical automation solutions, improving testing processes, and helping teams deliver better software faster.*
+                Architecting scalable automation. Engineering quality at scale. Empowering teams, accelerating delivery, and enabling reliable software with confidence. Building practical automation solutions, improving testing processes, and helping teams deliver better software faster.
 
               </Typography>
             </Grid>
