@@ -26,7 +26,7 @@ The biggest shift for me was learning to look beyond the test itself. I started 
 * Leveraged a multi-agent AI workflow with 25 AI agents to assist with test automation development, analysis, and engineering tasks.
 * Mentor and onboard SDETs, helping team members understand the automation framework, tooling, and development practices.
 * Conduct code reviews and peer programming sessions to improve automation code quality and solve complex technical issues.
-* Support framework setup, tool configuration, and CI/CD integration** for automated test execution.
+* Support framework setup, tool configuration, and CI/CD integration for automated test execution.
 * Continuously improve automation coverage, reliability, and maintainability through debugging and framework enhancements.
 
 ---
@@ -56,9 +56,9 @@ What made the experience more meaningful was that I wasn't building it just for 
 * Integrated the framework with GitHub Actions for automated, scheduled, deployment triggered test execution.
 * Containerized the automation framework with Docker and published the image through GitHub Container Registry.
 * Integrated Allure reporting and automated test notifications through Microsoft Teams.
-* Developed supporting tools and utilities for test execution, reporting, debugging, and failure investigation**.
+* Developed supporting tools and utilities for test execution, reporting, debugging, and failure investigation.
 * Reduced repetitive manual testing effort by approximately 80% through automation.
-* Mentored 5 QA engineers, including senior-level team members**, on automation development, framework usage, and best practices.
+* Mentored 5 QA engineers, including senior-level team members, on automation development, framework usage, and best practices.
 * Conducted code reviews, peer programming, and technical knowledge-sharing sessions to improve consistency across the automation team.
 * Helped establish Git branching and development workflows for automation projects.
 
